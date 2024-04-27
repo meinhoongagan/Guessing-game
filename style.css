@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 500px;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}
+.result{
+    display: flex;
+}
+input{
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(232, 144, 81);
+}
+button{
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: orange;
+}
